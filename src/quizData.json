@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "Berlin", "London", "None of these"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Venus", "None of these"],
+      "correctAnswer": "Mars"
+    },
+    {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "Mark Twain", "Charles Dickens", "None of these"],
+      "correctAnswer": "Harper Lee"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "O2", "None of these"],
+      "correctAnswer": "H2O"
+    },
+    {
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": ["China", "Japan", "India", "None of these"],
+      "correctAnswer": "Japan"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "None of these"],
+      "correctAnswer": "Leonardo da Vinci"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "None of these"],
+      "correctAnswer": "Pacific Ocean"
+    },
+    {
+      "question": "Which bird is often associated with delivering babies?",
+      "options": ["Stork", "Eagle", "Owl", "None of these"],
+      "correctAnswer": "Stork"
+    },
+    {
+      "question": "Who discovered gravity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "None of these"],
+      "correctAnswer": "Isaac Newton"
+    },
+    {
+      "question": "What is the largest mammal on Earth?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "None of these"],
+      "correctAnswer": "Blue Whale"
+    }
+  ]
+  
